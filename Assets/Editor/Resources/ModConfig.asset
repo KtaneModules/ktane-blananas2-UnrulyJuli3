@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: baleneis2modul
+  title: Blananas2
+  author: TheDarkSid3r
+  description: 'Module ID: baleneis2modul
+
+
+    baln
+
+    balanaa
+
+    balanna]\
+
+    djxvnohgsdjxgjsd
+
+    blaansanan
+
+    blanana/
+
+    blN
+
+    blanana
+
+    blanakv\sfdksfkkjhsgtfgvbjfeksdvfsgfgehsjdfgdrbfnkmlvfjghdbfvxdckmerjwhfdnmngktjrhfvbncxmdfesgrefdbgsrgfxvdferfsudvxhcdnfksljrthdfsjnksoiert45u9x80dgrydiugfyr7yfu*(YTRU)%*&$(^WYTUhgjipiUYRSiust8YRUIg9ruyIOGYuhiOPTUYSRUGhjdfjeHTUY*)Uyt7yUEjlkTHYGUHYghBJNKTIJOYJNKJI8y9UHJiuTFghUT&R%E^4sGVHBJuigy*D&RS^EtyuGIUHIyt6r7drsxfcvbjnLHU&TuhJUy7t8ukjiy&^yUOJKTITEUOYubbgit*Bit&*YJnkmLKOIU8Y7T6yghjknJBHGYUoij:ko)io:klgd:po{iGOkpo=0I[OK''P[IPH:lp{iopl)(+[k"koi(updiklGIuhJioygydJNJUigjPgiohJOGpiYHKJuujngkjopihGJkoigKJNdopibJBKMLKopjNmkopjnKml:bjilnkgmlkobkgmjikgpihiu)*y(&tY8097T86R75^t&12#$%^&*(0YGHJiHMDGkhNMLkojigjdbNKjdpigHJBnhgJDNKOKPJDIHJNKJgjbjNKDLHGJGDIPHJBgUBjhdgbnJIHBVDNGjjnKGjHBNGjHJBNJHGYvHGYtfGftyrtfgHBHGfdtrFGHgfdXSZDXFCgvhbgvfcDXcfgvhjHGFDdfcgvhbjnHGFCDRSdfghjHGFDRESdtfguhjGRDESdrtfghjhGFDRSEdrtfghjkhgydRSEtyuiouytRE%$W#5e67t8u9i9U*YT&^5e4w35e6r7t89u0ioIJyugfdrseDYUIouyt6r5e4RTYUiojhugyfdrESrty7uiopKIJUTRe54tyUIOOjhgvfdrew4eR^T&U*Iogfrdew4RTYU&iokmjhbgfdrE$%67t9u8iopkljhbGCFDRE4r5678uiojhgfrde45^TUiojhgvfrtder5678uioJHGFtrde435678(UIOKLMJHBGFDRe456789ipoUHGFDRE$%^&TYuijokhgvfcdreR%&^T*Uiopkjhbgfcdrety7uioKjhgftre567t8uoiJKHBvgfdrte5t6y7u8oiKLMJhgftr^&*(*U(IPOKjhgfr5678(UOIJLHGFTR567890ipokjhgtr^*&(UIOKLNJBHgftyr67*(UIJKLbhvgfr5^T&*Y*UIOJbhvgcfde4^%&*(UIknjbhvgfcderw$%E^&*(uiojklnjbhvgfDRE$%^&*(UIOJklnjbhvgcfdser456rt7yIUJNBHVGCFDRE$%^&*uiokjhvgfdrtETYUOIOK:LMKNBVCFDRE%^r7tyiuhvgcfgdrte5r67tyuJBHVGCFDRE%R^&TIUHjvghcdre56r7t8y98UHJKBHJVGFDRE%R&^T*YIUHJKBHVGDre5r76t87yuoijbhvgcdrE%R^T&YUIJKNJBVGCFDRE%R&^T&YUHjbvgchdre5r6789uijhGDSERrtyuoijknjbHVGCFSEAq34w45678y8uoijHGFXStretyuhjbvgtr56tyuhJKBHVJGdre65r76T*&YIUHHVGCDRE5r76t7iughvGFDE%R^TIUhkjbhvgcdytTYGKJBhvgchdytfuyiuhjnbkHVJGCTYFUGYIUJKBHVGCdyttIUHLNJBHVFR^&*&(Y*OIHGHFT%%*&^(*YOIHJKhftr67y8oihGHGDRE%57689yiohgFTR%^(*U(IJHUGYUFR6y7u8oiKLMJhgftr^&*(*U(IPOKjhgfr5678(UOIJLHGFTR567890ipokjhgtr^*&(UIOKLNJBHgftyr67*(UIJKLbhvgfr5^T&*Y*UIOJbhvgcfde4^%&*(UIknjbhvgfcderw$%E^&*(uiojklnjbhvgfDRE$%^&*(UIOJklnjbhvgcfdser456rt7yIUJNBHVGCFDRE$%^&*uiokjhvgfdrtETYUOIOK:LMKNBVCFDRE%^r7tyiuhvgcfgdrte5r67tyuJBHVGCFDRE%R^&TIUHjvghcdre56r7t8y98UHJKBHJVGFDRE%R&^T*YIUHJKBHVGDre5r76t87yuoijbhvgcdrE%R^T&YUIJKNJBVGCFDRE%R&^T&YUHjbvgchdre5r6789uijhGDSERrtyuoijknjbHVGCFSEAq34w45678y8uoijHGFXStretyuhjbvgtr56tyuhJKBHVJGdre65r76T*&YIUHHVGCDRE5r76t7iughvGFDE%R^TIUhkjbhvgcdytTYGKJBhvgchdytfuyiuhjnbkHnLHU&TuhJUy7t8ukjiy&^yUOJKTITEUOYubbgit*Bit&*YJnkmLKOIU8Y7T6yghjknJBHGYUoij:ko)io:klgd:po{iGOkpo=0I[OK''P[IPH:lp{iopl)(+[k"koi(updiklGIuhJioygydJNJUigjPgiohJOGpiYHKJuujngkjopihGJkoigKJNdopibJBKMLKopjNmkopjnKml:bjilnkgmlkobkgmjikgpihiu)*y(&tY8097T86R75^t&12#$%^&*(0YGHJiHMjNKDLHGJGDIPHJBgUBjhdgbnJIHBVDNGjjnKGjHBNGjHJBNJHGYvHGYtfGftyrtfgHBHGfdtrFGHgfdXSZDXFCgvhbgvfcDXcfgvhjHGFDdfcgvhbjnHGFCDRSdfghjHGFDRESdtfguhjGRDESdrtfghjhGFDRSEdrtfghjkhgydRSEtyuiouytRE%$W#5e67t8u9i9U*YT&^5e4w35e6r7t89u0ioIJyugfdrseDYUIouyt6r5e4RTYUiojhugyfdrESrty7uiopKIJUTRe54tyUIOOjhgvfdrew4eR^T&U*Iogfrdew4RTYU&iokmjhbgfdrE$%67t9u8iopkljhbGCFDRE4r5678uiojhgfrde45^TUiojhgvfrtder5678uioJHGFtrde435678(UIOKLMJHBGFDRe456789ipoUHGFDRE$%^&TYuijokhgvfcdreR%&^T*Uiopkjhbgfcdrety7uioKjhgftre567t8uoiJKHBvgfdrte5t6y7u8oiKLMJhgftr^&*(*U(IPOKjhgfr5678(UOIJLHGFTR567890ipokjhgtr^*&(UIOKLNJBHgftyr67*(UIJKLbhvgfr5^T&*Y*UIOJbhvgcfde4^%&*(UIknjbhvgfcderw$%E^&*(uiojklnjbhvgfDRE$%^&*(UIOJklnjbhvgcfdser456rt7yIUJNBHVGCFDRE$%^&*uiokjhvgfdrtETYUOIOK:LMKNBVCFDRE%^r7tyiuhvgcfgdrte5r67tyuJBHVGCFDRE%R^&TIUHjvghcdre56r7t8y98UHJKBHJVGFDRE%R&^T*YIUHJKBHVGDre5r76t87yuoijbhvgcdrE%R^T&YUIJKNJBVGCFDRE%R&^T&YUHjbvgchdre5r678hfdbgkjioUSHJOUGSYIduf8G(S&yuifUDTXrcyuoiHUSDR&^tyfuIOTS^G*7yuoipY&6'
+  version: 1.0
+  outputFolder: D:\Program Files (x86)\Steam\steamapps\common\Keep Talking and Nobody
+    Explodes\mods
+  previewImage: {fileID: 2800000, guid: 330742eb6bc40b34fb86798bc4267fe9, type: 3}
