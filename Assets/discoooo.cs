@@ -53,6 +53,8 @@ public class discoooo : MonoBehaviour
 			return false;
 
 		_module.HandleStrike();
+		_module.HandlePass();
+		OnNeedyDeactivation();
 		return false;
 	}
 
